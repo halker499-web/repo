@@ -1,3 +1,22 @@
+Package: com.code.google.tyr0.easybutton
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 72
+Filename: debs/easybutton_3.0.deb
+Size: 415428
+MD5sum: e34a8a4975704c1fc37ab36d188f4f11
+SHA1: 8d410cb38423b09d55e373e4e5402839d50d5417
+SHA256: 11aedce329e351c9c149e1f3c0eaded4cc08956a3d162dcd68d334533d280977
+Section: Toys
+Description: The staples easy button on your iPhone
+Author: Tyr0 <tylercalder123@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=EasyButtonData
+Dev: tyr0
+Icon: file:///Applications/Easy Button.app/Icon.png
+Name: Easy Button
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: xyz.cypwn.powercuff
 Version: 1.0.1
 Architecture: iphoneos-arm64
