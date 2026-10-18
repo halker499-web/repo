@@ -1,4 +1,4 @@
-Origin: KevDeviOS's repo
+Origin: repo
 Label: repo
 Suite: stable
 Version: 1.0
@@ -6,7 +6,7 @@ Codename: repo
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Personal Sileo APT repository
-Date: Sat, 17 Oct 2026 16:48:28 +0000
+Date: Sun, 18 Oct 2026 12:34:35 +0000
 MD5Sum:
  47f94a2d46425a2707c9460b603ad3fb 772 Packages
  ce430d6dbb5fc357922e157697e4de89 479 Packages.gz
