@@ -1,3 +1,22 @@
+Package: com.adhd.wii
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 9838
+Filename: debs/iwii_2.1.deb
+Size: 9235494
+MD5sum: c8555db6937a4766f35c3e078ba9c992
+SHA1: d8eadefe89eaa1f519ec614184ff3abc28f8b8d2
+SHA256: 2a3d9f8fd58d1d61a919877cce93bc9289d40df11ed745695d31ab7f189c2db1
+Section: Toys
+Description: Wii simulator. some muu channel, photos, internet & more
+Author: MaxHasADHD <maxhasadhd@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iwiiData
+Dev: maxhasadhd
+Icon: file:///Applications/wii.app/icon.png
+Name: iWii
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iwiiData
+
 Package: com.code.google.tyr0.easybutton
 Version: 3.0
 Architecture: iphoneos-arm
